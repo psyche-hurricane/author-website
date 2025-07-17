@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Kameryn Key | Mystery Author</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <h1>Kameryn Key: Stories That Whisper Secrets in the Dark</h1>
+    <p>Enter a world of mystery, secrets, and suspense.</p>
+    <nav>
+      <a href="#bio">Author Bio</a>
+      <a href="#works">Works in Progress</a>
+      <a href="https://instagram.com/kamerynkeywrites" target="_blank">Instagram</a>
+    </nav>
+  </header>
+
+  <main>
+    <section id="bio" class="content-section">
+      <h2>Author Biography</h2>
+      <p>This page is under construction. Come back soon to learn more about Kameryn Key!</p>
+    </section>
+
+    <section id="works" class="content-section">
+      <h2>Works in Progress</h2>
+      <div class="works-columns">
+        <div>
+          <h3>Novels</h3>
+          <p>Coming soon: a sneak peek into my upcoming mystery novel.</p>
+        </div>
+        <div>
+          <h3>Short Stories</h3>
+          <p>Coming soon: short, twisty tales of suspense.</p>
+        </div>
+        <div>
+          <h3>Bonus Content</h3>
+          <p>Coming soon: extras and behind-the-scenes details.</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>&copy; 2025 Kameryn Key. All rights reserved.</p>
+  </footer>
+</body>
+</html>
